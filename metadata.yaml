@@ -1,0 +1,34 @@
+_repo: The-Land-of-Frozen-Suns_35031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    - Sinclair, William Brown
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Fur trade -- Fiction'
+title: 'The Land of Frozen Suns: A Novel'
+url: http://www.gutenberg.org/ebooks/35031
